@@ -2,9 +2,9 @@
 CBNU Open Source Repo
 
 ## list
-* 소현섭
-* 강산
-* 신종훈
+* SO HYUN SEOP
+* GANG SAN
+* SHIN HONG HOON
 
 ## programs
 * GitAhead
