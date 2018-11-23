@@ -4,7 +4,8 @@ CBNU Open Source Repo
 ## list
 * SO HYUN SEOP
 * GANG SAN
-* SHIN HONG HOON
+* SHIN JONG HOON
+* SJH BOT
 
 ## programs
 * GitAhead
